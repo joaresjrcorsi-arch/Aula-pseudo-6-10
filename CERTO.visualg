@@ -1,0 +1,24 @@
+  algoritmo "Aula"
+
+
+  var 
+  
+    Contador: inteiro
+    limitador: inteiro
+
+  inicio
+
+  escreval("iniciando....")
+
+    limitador <- 3
+
+    para contador de 1 ate limitador faca 
+      escreval("repeetição  ", Contador)
+
+      fimpara
+
+      escreval("fora do bloco de repetição" , Contador)
+      escreval("fim")
+
+
+    fimalgoritmo
